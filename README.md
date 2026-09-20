@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi, I'm Afrah 👋 | Final Year EEE Student → Aspiring Data Scientist
 
-<!--
-**Afrah2705/Afrah2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Final Year - Electrical & Electronics Engineering (EEE)**
+🌾 **Academic Project:** Smart Agriculture Management System (Group Project) 
+- A smart IoT-based system to help farmers with better crop management
+🐍 Learning Python & SQL | Exploring Data Science
+🚀 2 Applications Built & Deployed Independently
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+**Core:** EEE, Electrical Systems
+**Programming:** Python, SQL, HTML, CSS
+**Learning:** Data Science, Pandas, Data Visualization
+**Tools:** Git, GitHub, VS Code, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+#### 1. 🌾 Smart Agriculture Management System
+*Final Year Academic Group Project*
+- Smart agriculture solution for crop monitoring
+- Tech: Python, SQL
+
+#### 2. 🚀 Deployed Applications (2)
+- Finance Tracker & Portfolio Generator - Live on Vercel
+- Built & deployed independently
+
+### 🌱 My Journey
+From EEE background, passionate about Data & Technology. Currently learning Data Science to build smart, impactful solutions.
+
+📫 **Looking for Data Science / Python Internship opportunities!**
+Let's connect on LinkedIn!
+
+> ✨ EEE + Data Science = Smart Solutions for Real World!
